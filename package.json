@@ -1,5 +1,5 @@
 {
-  "name": "dektaiimage/react-ui-component-library",
+  "name": "@dektaiimage/react-ui-component-library",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/dektaiimage"
   },
